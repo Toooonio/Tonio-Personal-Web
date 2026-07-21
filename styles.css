@@ -6,8 +6,8 @@
   --cyan: #44e7d3;
   --coral: #ff715b;
   --acid: #d6ff63;
-  --display: "Manrope", "Noto Sans SC", sans-serif;
-  --mono: "DM Mono", monospace;
+  --display: "PingFang SC", "Microsoft YaHei", "Noto Sans SC", Arial, sans-serif;
+  --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
 }
 
 * { box-sizing: border-box; }
